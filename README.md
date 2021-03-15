@@ -4,7 +4,7 @@
 >
 > Contributors: 
 >
-> [CAI Pengfei](caipengfei_ecpkn@outlook.com) 
+> [CAI Pengfei](mailto:caipengfei_ecpkn@outlook.com) 
 >
 > "
 
@@ -16,7 +16,7 @@ add folder as part of classpaths for compiling, Just trying to deceive maven com
 
 ```xml
 <plugin>
-    <groupId>com.randomlink</groupId>
+    <groupId>org.randomlink</groupId>
     <artifactId>randomlink-maven-plugin</artifactId>
     <version>1.0-SNAPSHOT</version>
     <configuration>

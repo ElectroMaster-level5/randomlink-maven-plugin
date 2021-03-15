@@ -1,4 +1,4 @@
-package com.randomlink;
+package org.randomlink;
 
 import org.apache.maven.artifact.Artifact;
 import org.apache.maven.artifact.DefaultArtifact;
